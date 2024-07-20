@@ -7,7 +7,7 @@
 ### GenAI 生成式AI
 - [chatGPT](https://chatgpt.com/)
 - [GoogleGEMINI](https://gemini.google.com/app?hl=zh-TW)
-- Copilot
+- [Copilot](https://copilot.microsoft.com/)
 ### 做簡報[prompt提示詞1](prompt提示詞1.md)
 ```
  CIA TRIAD:Confidentiality, Integrity, and Availability
