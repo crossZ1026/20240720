@@ -1,6 +1,7 @@
 # GITHUB: markdown
 - 請幫我完成9*9乘法表的X程式設計
 ## C：請幫我完成9*9乘法表的X的程式設計
+- [online c](https://www.programiz.com/c-programming/online-compiler/)
 ```c
 #include <stdio.h>
 
@@ -18,9 +19,10 @@ int main() {
     return 0;
 }
 
-
 ```
+- ![image](https://github.com/user-attachments/assets/44fbbd7d-c566-4d6a-b1e4-d9e91dfe47cf)
 ## C++：請幫我完成9*9乘法表的C++程式設計
+- [online c++](https://www.programiz.com/cpp-programming/online-compiler/)
 ```c++
 #include <iostream>
 #include <iomanip> // 用於設定輸出的格式
@@ -39,4 +41,6 @@ int main() {
 }
 
 ```
+- ![image](https://github.com/user-attachments/assets/a6ccb4ce-f4d3-4155-a1e4-2d578d6ca047)
+
   
