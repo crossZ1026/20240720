@@ -8,8 +8,12 @@
 - [chatGPT](https://chatgpt.com/)
 - [GoogleGEMINI](https://gemini.google.com/app?hl=zh-TW)
 - Copilot
-### [prompt提示詞1](https://github.com/crossZ1026/20240720/blob/main/MyFirstCTF/prompt%E6%8F%90%E7%A4%BA%E8%A9%9E1.md)
+### [prompt提示詞1](prompt提示詞1.md)
 ```
  CIA TRIAD:Confidentiality, Integrity, and Availability
 你是專家,請用十頁簡報說明CIA TRIAD
+```
+### [prompt提示詞2](prompt提示詞2.md)
+```
+請針對李白「將進酒」畫一幅水墨畫
 ```
